@@ -1,6 +1,6 @@
 # BotKeeper Bot Creator
 
-- Note 1: Rule 2 is added randomly when creating a Bot.
+- Note 1: Rule 2 is *added randomly when creating a Bot*. 
 - Note 2: Rules already selected can not be selected again.
 
 ## Features
