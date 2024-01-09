@@ -23,6 +23,9 @@ npm install
 
 ## Usage
 
+
+You should copy `.env.sample` to `.env` and then:
+
 To start the development server and run the project, use the following command:
 
 ```bash
